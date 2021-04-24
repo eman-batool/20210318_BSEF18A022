@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">activityLifeCycle</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+    <string name="counter">Counter</string>
+    <string name="start">Start</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="activity_3">Activity_3</string>
+    <string name="welcome_to_activity_2">Welcome to Activity 2</string>
+    <string name="welcome_to_activity_3">Welcome to activity 3</string>
+
+</resources>
